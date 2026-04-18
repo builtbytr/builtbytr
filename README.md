@@ -1,4 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Tynisha
+
+I build automation, backend systems, and AI-driven solutions to improve business operations and reduce manual work.
+
+## 🔧 What I Work With
+- Power Automate & Power Platform
+- Python (Flask APIs)
+- SQL & Data Integration
+- Azure Services
+- API Development & Automation
+
+## 🚀 Current Focus
+- Building scalable backend systems
+- Developing AI-driven automation tools
+- Expanding into full-stack development
+
+## 📌 Projects
+- Location Lookup App (in progress)
+
+---
+Built by TR
 
 <!--
 **builtbytr/builtbytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
